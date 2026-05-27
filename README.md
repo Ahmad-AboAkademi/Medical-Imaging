@@ -81,8 +81,4 @@ After running the four scripts, `outputs/` contains:
 * `part3_pet_all_slices.png` – slice grid for prompt selection
 * `part3_slicer_overlay.png`, `part3_auto_overlay.png`,
   `part3_auto_vs_slicer.png`, `part3_metrics_slicer.txt`
-
-## Report
-
-The 5-page technical report is in `report.tex`.  Compile with
-`pdflatex report.tex`.
+![Tumor segmentation result](images/part3_auto_vs_slicer.png)
