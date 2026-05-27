@@ -81,4 +81,6 @@ After running the four scripts, `outputs/` contains:
 * `part3_pet_all_slices.png` – slice grid for prompt selection
 * `part3_slicer_overlay.png`, `part3_auto_overlay.png`,
   `part3_auto_vs_slicer.png`, `part3_metrics_slicer.txt`
+![demo](images/fusion_mip.gif)
+
 ![Tumor segmentation result](images/part3_auto_vs_slicer.png)
